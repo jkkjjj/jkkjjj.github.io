@@ -10,7 +10,7 @@ redirect_from:
 Hi there👋I am a third-year undergraduate student majoring in CS (Elite class) at [Guohao College Tongji University](https://ghc.tongji.edu.cn/) My research interests include **Financial Time Series Forecasting** and **Spatiotemporal Imputation**, especially Graph Generation and Test-Time-Training. I am presently working on Graph Neural Networks for Financial Time Series Prediction, advised by [Prof. Dawei Cheng](http://cs1.tongji.edu.cn/~dawei/) at [Tongji University](https://www.tongji.edu.cn/).
 
 
-I am genuinely passionate about research, particularly in **Graph Neural Networks** and **Time Series Foorecasting**. If you are interested in the inspection, feel free to reach out to me!
+I am genuinely passionate about research, particularly in **Graph Neural Networks** and **Time Series Forecasting**. If you are interested in the inspection, feel free to reach out to me!
 
 I am looking forward to 2025 summer research opportunities in the United States.
 
