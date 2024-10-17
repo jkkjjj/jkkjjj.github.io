@@ -19,20 +19,20 @@ I am actively seeking research opportunities in the United States for the summer
 🚀I have a genuine passion for research. If you're interested in discussing these areas, feel free to contact me!🍭
 
 ## Research Experience
+### Tongji University-Fin Lab
+Sep 2024-Present · Shanghai
+**Research Focus**:
+- Graph-based Stock time Series Prediction
+- Graph Generation
 
 ### Tongji University-ADMIS Lab
-![Alt text](../images/ADMIS.png)
+<!-- ![Alt text](../images/ADMIS.png) -->
 Feb 2024 – Sep 2024 · Shanghai
 **Research Focus**:
 -  Spatiotemporal Imputation 
 -  Specifically in Point Missingness Imputation and Block Missingness Imputation
 
 
-### Tongji University-Fin Lab
-Sep 2024-Present
-**Research Focus**:
-- Graph-based Stock time Series Prediction
-- Graph Generation
 
 <!-- 
 
@@ -62,8 +62,9 @@ Hi there👋I am a third-year undergraduate student majoring in **CS (Elite clas
 I am actively seeking research opportunities in the United States for the summer of 2025 and would be excited to contribute. -->
 
 **Contact** \\
-jkkjjj715@gmail.com
-
+- mail: jkkjjj715@gmail.com
+- Wechat: ckj1460873268
+- QQ: 1460873268
 
 <!-- 🔥 News
 =====
