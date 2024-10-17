@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Kaijie Chen/ Beautiful World!"
 title_separator          : "-"
 name                     : &name "Kaijie Chen"
-description              : &description "Crescat scientia; vita excolatur"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Tongji University CS"
+url                      : https://jkkjjj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Tongji University, CS"
   location         : "Shanghai, China"
-  employer         : "Crescat scientia; vita excolatur"
+  employer         : #"Tongji University CS"
   uri              : # URL
   email            : "jkkjjj715@gmail.com" 
 
