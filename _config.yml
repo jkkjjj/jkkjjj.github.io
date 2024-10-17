@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Kaijie Chen's beautiful world!"
+title                    : "Welcome to my beautiful world!"
 title_separator          : "-"
 name                     : &name "Kaijie Chen"
 description              : &description "Tongji University CS (Elite class)"
