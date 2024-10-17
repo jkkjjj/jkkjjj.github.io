@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi there👋I am a third-year undergraduate student majoring in CS (Elite class) at [Guohao College Tongji University](https://ghc.tongji.edu.cn/) My research interests include **Financial Time Series Forecasting** and **Spatiotemporal Imputation**, especially Graph Generation and Test-Time-Training. I am presently working on Graph Neural Networks for Financial Time Series Prediction, advised by [Prof. Dawei Cheng](http://cs1.tongji.edu.cn/~dawei/) at [Tongji University](https://www.tongji.edu.cn/).
+Hi there👋I am a third-year undergraduate student majoring in **CS (Elite class)** at [Guohao College Tongji University](https://ghc.tongji.edu.cn/). My research interests include **Financial Time Series Forecasting** and **Spatiotemporal Imputation**, especially **Graph Neural Network** and **Test-Time-Training**. I am presently working on **Graph Neural Networks for Financial Time Series Prediction**, advised by [Prof. Dawei Cheng](http://cs1.tongji.edu.cn/~dawei/) at [Tongji University](https://www.tongji.edu.cn/).
 
 My favorite color is 🎀red🎀. It evokes a vivid sense of life, passion, vitality, and brilliance, along with warmth and brightness—all of which deeply resonate with my view of this fascinating world.
 
 
-I am genuinely passionate about research, particularly in **Graph Neural Networks** and **Time Series Forecasting**. If you are interested in the inspection, feel free to reach out to me!
+I have a genuine passion for research, especially in Graph Neural Networks and Time Series Forecasting. If you're interested in discussing these areas, feel free to contact me!
 
-I am looking forward to 2025 summer research opportunities in the United States.
+I am actively seeking research opportunities in the United States for the summer of 2025 and would be excited to contribute.
 
-**Contact** \\
-jkkjjj715@gmail.com
+<!-- **Contact** \\
+jkkjjj715@gmail.com -->
 
 
 <!-- 🔥 News
