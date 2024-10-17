@@ -61,7 +61,7 @@ Hi there👋I am a third-year undergraduate student majoring in **CS (Elite clas
 
 I am actively seeking research opportunities in the United States for the summer of 2025 and would be excited to contribute. -->
 
-**Contact** \\
+## Contact
 - mail: jkkjjj715@gmail.com
 - Wechat: ckj1460873268
 - QQ: 1460873268
