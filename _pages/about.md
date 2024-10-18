@@ -7,28 +7,30 @@ redirect_from:
   - /about.html
 ---
 ## About me
-Hi there👋This is 🎀Kaijie Chen🎀! I am a third-year undergraduate student majoring in **CS (Elite class)** at [Guohao College Tongji University](https://ghc.tongji.edu.cn/).My favorite color is 🎀red🎀. It evokes a vivid sense of life, passion, vitality, and brilliance, along with warmth and brightness🍓—all of which deeply resonate with my view of this fascinating world🎈.
+Hi there👋This is 🎀Kaijie Chen🎀! I am a third-year undergraduate student majoring in **CS (Elite class)** at Tongji University. My favorite color is 🎀red🎀. It evokes a vivid sense of life, passion, vitality, and brilliance, along with warmth and brightness🍓— all of which deeply resonate with my view of this fascinating world🎈.
 
 I am actively seeking research opportunities in the United States for the summer of 2025 and would be excited to contribute.
 ## Research Interest
 - 💞Graph-based Stock time Series Prediction💞
 - 🍕Spatiotemporal Imputation🍕
 - 🍒Test-Time-Training🍒
-- 🌈Graph Neural Network🌈
+- 🚀Graph Neural Network🚀
 
-🚀I have a genuine passion for research. If you're interested in discussing these areas, feel free to contact me!🍭
+🌈I have a genuine passion for research. If you're interested in discussing these areas, feel free to contact me!🍭
 
 ## Research Experience
 ### Tongji University-Fin Lab
 Sep 2024-Present · Shanghai
-**Research Focus**:
+
+#### **Research Focus**:
 - Graph-based Stock time Series Prediction
 - Graph Generation
 
 ### Tongji University-ADMIS Lab
 <!-- ![Alt text](../images/ADMIS.png) -->
 Feb 2024 – Sep 2024 · Shanghai
-**Research Focus**:
+
+#### **Research Focus**:
 -  Spatiotemporal Imputation 
 -  Specifically in Point Missingness Imputation and Block Missingness Imputation
 
@@ -62,7 +64,7 @@ Hi there👋I am a third-year undergraduate student majoring in **CS (Elite clas
 I am actively seeking research opportunities in the United States for the summer of 2025 and would be excited to contribute. -->
 
 ## Contact
-- mail: jkkjjj715@gmail.com
+- mail: 2252538@tongji.edu.cn
 - Wechat: ckj1460873268
 - QQ: 1460873268
 
