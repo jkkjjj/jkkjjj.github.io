@@ -16,7 +16,7 @@ redirect_from:
   visitor!
 </h1>
 
-✨I’m **Kaijie Chen**,  a self-motivated and enthusiastic computer science student with a passion for innovation. I thrive on collaborating with researchers from around the world to generate cutting-edge ideas and create outstanding work together!
+✨I’m **Kaijie Chen**,  a self-motivated and enthusiastic computer science student with a passion for innovation. I thrive on collaborating with researchers from around the world to generate **cutting-edge ideas** and create **outstanding work** together!
 
 
 🚀Currently, my research interests focus on **multi-agent systems**, **data mining**, **graph learning**, and **LLMs**. I enjoy examining and interpreting the world through a mathematical lens, seeking patterns and insights that drive meaningful solutions.
