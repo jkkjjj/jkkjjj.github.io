@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <h1>
-  🥰 Hi there my No.
+  🎀 Hi there my No.
   <img src="https://profile-counter.glitch.me/jkkjjj/count.svg"/>
   visitor!
 </h1>
