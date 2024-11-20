@@ -46,11 +46,11 @@ redirect_from:
 # 🏆 Honors and Awards
 - *2024*,🥇 First Prize (3/782) in the Statistical Modeling Competition, Shanghai ⭐
 - *2024*,🥉 Bronze Award in the China International Innovation and Entrepreneurship Competition, Shanghai 💫
-- *2023 / 2024*, 🏆 Social Activity Scholarship, Tongji University (Top 5%)- 2024 🌟
+- *2023 / 2024*, 🏆 Social Activity Scholarship, Tongji University (Top 5%) 🌟
 - *2024*, 🎖️ Gold Award in the China International Innovation and Entrepreneurship Competition, Tongji University 🚀
 - *2024*,🥉 Bronze Award in the China International Innovation and Entrepreneurship Competition, Tongji University 🚊
 - *2024*,🏆 Outstanding Volunteer for Cloud Teaching 💌
-- *2024*,🏆 Team Leader in the Ripple Action Social Practice Activity, Tongji University, 2024.2 👑
+- *2024*,🏆 Team Leader in the Ripple Action Social Practice Activity, Tongji University 👑
 - *2024*,🥇 First Prize in the Statistical Modeling Competition, Tongji University 🚩
 - *2024*,🥉 Third Prize in the Mathematical Modeling Competition, Tongji University 
 
