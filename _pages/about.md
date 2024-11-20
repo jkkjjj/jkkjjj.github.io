@@ -83,8 +83,6 @@ redirect_from:
 - **🔧 Tongji Engineering Class 6**  
   *Academic Representative, Sep 2022 – Sep 2024*
   - Organized annual reading sessions and assisted classmates with academic queries in the role of academic representative.
-
-
 - **📃 Tongji University Red Cross Society**
   *Volunteer, Nov 2023*
   - Provided companionship and support to children with autism at the Shanghai Early Bird Rehabilitation Center.
