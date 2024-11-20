@@ -11,8 +11,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <h1>
-  🥰 Hi there my No.
-  <img src="https://profile-counter.glitch.me/MEKSAAA/count.svg"/>
+  🎀 Hi there my No.
+  <img src="https://profile-counter.glitch.me/jkkjjj/count.svg"/>
   visitor!
 </h1>
 
@@ -72,19 +72,19 @@ Currently, I am focused on **multi-agent**, **time Series forecasting**, **graph
 
 
 
-# 🏫 Student Activities and 志愿服务
+# 🏫 Student Activities 
 - **🎓 Tongji University Academic Guidance and Development Center**  
   *Academic Committee Member, Feb 2024 – Jul 2024*
   - Organized peer seminars and alumni lectures, and prepared summary reports for each event.
 
-- **🏫 Tongji University 破壁工作室**  
+- **🏫  Tongji University PoBi Studio**  
   *Frontend Developer for Jixingyun, Feb 2024 – Jul 2024*
   - Learned frontend development skills and collaborated with the product team on design and functionality.
-- **📚 Tongji 工科6班**  
+- **📚  Tongji Engineering Class 6**  
   *Academic Representative, Sep 2022 – Sep 2024*
   - Organized annual reading sessions and assisted classmates with academic queries in the role of academic representative.
 
-- **同济大学红十字会**
+- **Tongji University Red Cross Society**
   *Volunteer, Nov 2023*
 - Provided companionship and support to children with autism at the Shanghai Early Bird Rehabilitation Center.
   
