@@ -68,7 +68,7 @@ redirect_from:
 - **ADMIS Lab 📚**  
   *Research Assistant, Tongji University, Feb 2024- Sep 2024*
   - **Point Missing Imputation**: Investigated imputation methods for datasets with point-level missingness.
-  - **Block Missing Imputation**：Developed spatiotemporal imputation models for highly sparse chlorophyll-a (Chl-a) data.
+  - **Block Missing Imputation**：Developed spatiotemporal imputation models for highly sparse chlorophyll-a data.
 
 
 
