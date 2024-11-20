@@ -84,7 +84,11 @@ redirect_from:
   *Academic Representative, Sep 2022 – Sep 2024*
   - Organized annual reading sessions and assisted classmates with academic queries in the role of academic representative.
 
+<<<<<<< HEAD
 - **📫 Tongji University Red Cross Society**
+=======
+- **📃 Tongji University Red Cross Society**
+>>>>>>> 978bfb8c5af9072aae3ce3fb6759cef5df8af20d
   *Volunteer, Nov 2023*
   - Provided companionship and support to children with autism at the Shanghai Early Bird Rehabilitation Center.
   
