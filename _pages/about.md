@@ -47,7 +47,7 @@ redirect_from:
 - *2024*,🥇 First Prize (3/782) in the National College Statistical Modeling Competition, Shanghai ⭐
 - *2024*,🥉 Bronze Award in the China International Innovation and Entrepreneurship Competition, Shanghai 💫
 - *2023 / 2024*, 🏆 Social Activity Scholarship, Tongji University (Top 5%) 🌟
-- *2023 / 2024*, 🏆Tongji University Academic Scholarship (Top 15%) ✨
+- *2023 / 2024*, 🏆 Academic Scholarship, Tongji University (Top 15%) ✨
 - *2024*, 🎖️ Gold Award in the China International Innovation and Entrepreneurship Competition, Tongji University 🚀
 - *2024*,🥉 Bronze Award in the China International Innovation and Entrepreneurship Competition, Tongji University 🚊
 - *2024*,🏆 Outstanding Volunteer for Cloud Teaching 💌
