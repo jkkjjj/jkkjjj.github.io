@@ -49,7 +49,7 @@ redirect_from:
 - *2023 / 2024*, 🏆 Social Activity Scholarship, Tongji University (Top 5%) 🌟
 - *2023 / 2024*, 🏆 Academic Scholarship, Tongji University (Top 15%) ✨
 - *2024*, 🎖️ Gold Award in the China International Innovation and Entrepreneurship Competition, Tongji University 🚀
-- *2024*, 🏆 First Prize in the 10th Academic Forum for Student Innovation and Entrepreneurship, Tongji University 🪐
+- *2024*, 🏆 First Prize (4/121) in the 10th Academic Forum for Student Innovation and Entrepreneurship, Tongji University 🪐
 - *2024*,🥉 Bronze Award in the China International Innovation and Entrepreneurship Competition, Tongji University 🚊
 - *2024*,🏆 Outstanding Volunteer for Cloud Teaching 💌
 - *2024*,🏆 Team Leader in the Ripple Action Social Practice Activity, Tongji University 👑
