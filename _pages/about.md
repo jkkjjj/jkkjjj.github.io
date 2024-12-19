@@ -76,21 +76,18 @@ redirect_from:
 
 
 # 🏫 Student Activities 
+- **🔧 Tongji Engineering Class 6**  
+  *Academic Representative, Sep 2022 – Sep 2024*
+
 - **🎓 Tongji University Academic Guidance and Development Center**  
   *Academic Committee Member, Feb 2024 – Jul 2024*
-  - Organized peer seminars and alumni lectures, and prepared summary reports for each event.
 
 - **🏫 Tongji University PoBi Studio**  
   *Frontend Developer for Jixingyun, Feb 2024 – Jul 2024*
-  - Learned frontend development skills and collaborated with the product team on design and functionality.
-- **🔧 Tongji Engineering Class 6**  
-  *Academic Representative, Sep 2022 – Sep 2024*
-  - Organized annual reading sessions and assisted classmates with academic queries in the role of academic representative.
-- **📃 Tongji University Red Cross Society**
 
+- **📃 Tongji University Red Cross Society**
   *Volunteer, Nov 2023*
-  - Provided companionship and support to children with autism at the Shanghai Early Bird Rehabilitation Center.
-  
+
 
 
 
