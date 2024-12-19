@@ -86,6 +86,7 @@ redirect_from:
   *Frontend Developer for Jixingyun, Feb 2024 – Jul 2024*
 
 - **📃 Tongji University Red Cross Society**
+  
   *Volunteer, Nov 2023*
 
 
