@@ -64,9 +64,8 @@ redirect_from:
 # 📝 Research Experience
 - **FinTech Lab 🚀**  
   *Research Assistant, Tongji University, Sep 2024- Present*
-  - **Multi-Agent**:  Investigating efficient methodologies to automate agent workflow generation.
-  - **Time Series Prediction in Finance**: Combining graph processing and temporal modeling for improved stock prediction accuracy.
-
+  - **Multi-Agent**:  Designing efficient methodologies to automate agent workflow generation.
+  - **Time Series Prediction in Finance**: Heterogeneous temporal dynamic graph convolution network for stock trend prediction. 
 
 - **ADMIS Lab 📚**  
   *Research Assistant, Tongji University, Feb 2024- Sep 2024*
@@ -82,12 +81,7 @@ redirect_from:
 - **🎓 Tongji University Academic Guidance and Development Center**  
   *Academic Committee Member, Feb 2024 – Jul 2024*
 
-- **🏫 Tongji University PoBi Studio**  
-  *Frontend Developer for Jixingyun, Feb 2024 – Jul 2024*
 
-- **📃 Tongji University Red Cross Society**
-  
-  *Volunteer, Nov 2023*
 
 
 
