@@ -19,7 +19,7 @@ redirect_from:
 ✨I’m **Kaijie Chen**,  a self-motivated and enthusiastic computer science student with a passion for innovation. I thrive on collaborating with researchers from around the world to generate **cutting-edge ideas** and create **outstanding work** together!
 
 
-🚀Currently, my research interests focus on **multimodal**, **multi-agent systems**, **data mining**, and **graph learning**. I enjoy examining and interpreting the world through a mathematical lens, seeking patterns and insights that drive meaningful solutions.
+🚀Currently, my research interests focus on **multimodal**, **multi-agent**, **data mining**, and **graph learning**. I enjoy examining and interpreting the world through a mathematical lens, seeking patterns and insights that drive meaningful solutions.
 
 
 🌈 I’m excited about exploring research opportunities in the **United States** during the **spring** and **summer** of 2025. My goal is to lead a research project with the dedication and drive of a PhD student, contributing to impactful advancements.
