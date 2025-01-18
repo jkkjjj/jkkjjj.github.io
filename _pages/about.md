@@ -48,6 +48,7 @@ redirect_from:
 - *2024*,🥉 Bronze Award in the China International Innovation and Entrepreneurship Competition, Shanghai 💫
 - *2023 / 2024*, 🏆 Social Activity Scholarship, Tongji University (Top 5%) 🌟
 - *2023 / 2024*, 🏆 Academic Scholarship, Tongji University (Top 15%) ✨
+- *2023 / 2024*, 🏆 Wenqi Sun Scholarship, Tongji University ✨
 - *2022*, 🏆 Outstanding Academic Scholarship (¥10,000) 👑
 - *2024*,🏆 Outstanding Volunteer for Cloud Teaching (National) 💌
 
