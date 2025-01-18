@@ -43,7 +43,7 @@ redirect_from:
 
 
 
-# 🏆 Honors and Awards
+# 🏆 Selected Honors and Awards
 - *2024*,🥇 First Prize (3/782) in the National College Statistical Modeling Competition, Shanghai ⭐
 - *2024*,🥉 Bronze Award in the China International Innovation and Entrepreneurship Competition, Shanghai 💫
 - *2023 / 2024*, 🏆 Social Activity Scholarship, Tongji University (Top 5%) 🌟
