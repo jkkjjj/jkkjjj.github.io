@@ -28,8 +28,8 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.09*: 🎉 I joined  research at FinTech Lab for Financial Time Series Prediction 
-- *2024.02*: 🎉 I joined at ADMIS Lab reaserch Spatiotemporal Imputation
+- *2024.09*: 🎉 I joined  research at FinTech Lab 🎉
+- *2024.02*: 🎉 I joined research at ADMIS Lab 🎉
 
 
 # 📖 Education
