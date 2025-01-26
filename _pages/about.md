@@ -28,6 +28,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.01*: 🎉 I joined  research at VT NLP 🎉
 - *2024.09*: 🎉 I joined  research at FinTech Lab 🎉
 - *2024.02*: 🎉 I joined research at ADMIS Lab 🎉
 
@@ -38,6 +39,7 @@ redirect_from:
 
 
 # 🔬 Research Interests
+- **Multimodal**
 - **Efficient Multi-agent System**
 - **Data Mining**
 
@@ -59,13 +61,18 @@ redirect_from:
 
 
 # 📝 Research Experience
+- **VT NLP 🪐**
+  *Research Assistant, UC Davis (Remote) Jan 2025 - Present*
+  - **Multimodal**: Reasoning based Image Generation
+
+
 - **FinTech Lab 🚀**  
-  *Research Assistant, Tongji University, Sep 2024- Present*
+  *Research Assistant, Tongji University (Remote), Sep 2024 - Present*
   - **Multi-Agent**:  Designing efficient methodologies to automate agent workflow generation.
   - **Time Series Prediction in Finance**: Heterogeneous temporal dynamic graph convolution network for stock trend prediction. 
 
 - **ADMIS Lab 📚**  
-  *Research Assistant, Tongji University, Feb 2024- Sep 2024*
+  *Research Assistant, Tongji University (Remote), Feb 2024 - Sep 2024*
   - **Point Missing Imputation**: Investigated imputation methods for datasets with point-level missingness.
   - **Block Missing Imputation**：Developed spatiotemporal imputation models for highly sparse chlorophyll-a data.
 
