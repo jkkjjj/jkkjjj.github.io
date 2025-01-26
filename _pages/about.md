@@ -40,7 +40,7 @@ redirect_from:
 
 # 🔬 Research Interests
 - **Multimodal**
-- **Efficient Multi-agent System**
+- **Multi-agent LLMs**
 - **Data Mining**
 
 
