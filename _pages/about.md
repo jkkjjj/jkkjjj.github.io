@@ -40,7 +40,7 @@ redirect_from:
 
 # 🔬 Research Interests
 - **Multimodal**
-- **Multi-agent LLMs**
+- **Multi-Agent LLMs**
 - **Data Mining**
 
 
@@ -53,8 +53,6 @@ redirect_from:
 - *2023 / 2024*, 🏆 Wenqi Sun Scholarship, Tongji University ✨
 - *2022*, 🏆 Outstanding Academic Scholarship (¥10,000) 👑
 - *2024*,🏆 Outstanding Volunteer for Cloud Teaching (National) 💌
-
-
 
 
 
