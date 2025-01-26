@@ -34,7 +34,7 @@ redirect_from:
 
 
 # 📖 Education
-- *2022.09 - 2026.06*, **Tongji University** – School of Computer Science and Technology 🎓
+- *2022.09 - 2026.06 (Expect)*, **Tongji University** – School of Computer Science and Technology 🎓
   - Bachelor of Computer Science (**Elite Class**)
 
 
