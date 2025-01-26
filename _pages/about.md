@@ -28,7 +28,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.01*: 🎉 I joined  research at VT NLP 🎉
+- *2024.01*: 🎉 I joined  research at VT NLP Lab🎉
 - *2024.09*: 🎉 I joined  research at FinTech Lab 🎉
 - *2024.02*: 🎉 I joined research at ADMIS Lab 🎉
 
@@ -61,8 +61,9 @@ redirect_from:
 
 
 # 📝 Research Experience
-- **VT NLP 🪐**
-  *Research Assistant, UC Davis (Remote) Jan 2025 - Present*
+
+- **VT NLP Lab🪐**
+  *Research Assistant, UC Davis (Remote), Jan 2025 - Present*
   - **Multimodal**: Reasoning based Image Generation
 
 
