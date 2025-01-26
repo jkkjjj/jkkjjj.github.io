@@ -63,7 +63,6 @@ redirect_from:
 # 📝 Research Experience
 
 - **VT NLP Lab🪐**
-
   *Research Assistant, UC Davis (Remote), Jan 2025 - Present*
   - **Multimodal**: Reasoning based Image Generation
 
