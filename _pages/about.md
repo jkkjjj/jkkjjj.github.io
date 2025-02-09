@@ -61,7 +61,7 @@ redirect_from:
 # 📝 Research Experience
 
 - **T2I🪐**
-  *Research Assistant, UC Davis (Remote), Jan 2025 - Present*
+  *Research Assistant, (Remote), Jan 2025 - Present*
   - **Text to Image**: Reasoning based Image Generation
 
 
