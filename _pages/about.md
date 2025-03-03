@@ -22,8 +22,6 @@ redirect_from:
 🚀Currently, my research interests focus on **multimodal**, **multi-agent LLMs**, **data mining**, and **graph learning**. I enjoy examining and interpreting the world through a mathematical lens, seeking patterns and insights that drive meaningful solutions.
 
 
-🌈 I’m excited about exploring research opportunities in the **United States** during the **spring** and **summer** of 2025. My goal is to lead a research project with the dedication and drive of a PhD student, contributing to impactful advancements.
-
 🎈 If you’re interested in discussing ideas or collaborating on exciting projects, **feel free to connect**. Let’s make something amazing together! 
 
 
