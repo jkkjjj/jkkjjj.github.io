@@ -2,7 +2,7 @@
 
 - I am a 4-th year undergraduate student majoring in [Computer Science (Elite Class)](https://ghc.tongji.edu.cn/) at [Tongji University](https://en.tongji.edu.cn/) in Shanghai, China.
 
-- I am sincerely grateful to the wonderful professors, inspiring PhD seniors, and outstanding undergraduates who generously offered me their help during my undergraduate years.
+- I am sincerely grateful to the respected professors, wonderful postdocs, inspiring PhD seniors, and outstanding undergraduates who generously offered me help during my undergraduate years.
 
 ## News
 - I am seeking PhD opportunities starting in Fall 2026. Please feel free to reach out.
