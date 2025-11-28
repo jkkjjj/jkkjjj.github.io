@@ -1116,7 +1116,11 @@ sup[id^="fnref"]:hover .footnote-popup {
   position: relative;
   min-height: 200px;
   border: 1px solid var(--brand-main);  /* Direct red border */
+
+  /* 新加这行：让左边头像和右边文字在竖直方向居中对齐 */
+  align-items: center;
 }
+
 
 .about-image {
   height: 200px;
