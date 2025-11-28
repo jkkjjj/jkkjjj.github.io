@@ -1129,7 +1129,7 @@ sup[id^="fnref"]:hover .footnote-popup {
   /* Use background-blend-mode so the background-image blends with brand-main background-color based on luminosity */
   /* background-color: var(--brand-dark); */
   /* background-blend-mode: luminosity; */
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
 }
 
 .about-content {
