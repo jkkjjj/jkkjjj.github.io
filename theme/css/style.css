@@ -1119,6 +1119,7 @@ sup[id^="fnref"]:hover .footnote-popup {
 }
 
 .about-image {
+  height: 200px;
   width: 200px;
   flex: none;
   background-size: cover;
