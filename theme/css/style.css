@@ -18,9 +18,9 @@ body{
   background-color: var(--bg-main);
   /* font-family: 'Calluna', serif;*/
   font-family: Consolas, "Cascadia Mono", "Courier New", monospace;
-  font-size: 11pt; /* fallback for bad browser */
+  font-size: 10pt; /* fallback for bad browser */
   /* Using EB Garamond we have to make the base size bigger*/
-  font-size: calc(1.1*var(--base-size));
+  font-size: calc(0.8*var(--base-size));
   /* font-size: var(--base-size); */
   /* font-stretch: semi-condensed; */
   color: var(--text-body);
