@@ -1152,23 +1152,42 @@ sup[id^="fnref"]:hover .footnote-popup {
 }
 
 
-.about-title {
+/* .about-title {
   margin: 0 0 0.15rem 0;  /* Tighter spacing to subtitle */
-  font-size: 1.8rem;
-  color: var(--text-dark);
+  /* font-size: 1.8rem; */
+  /* color: var(--text-dark);
   font-weight: 900;
   font-family: 'Triptych', serif;
   font-style: italic;
+} */ 
+
+.about-title {
+  margin: 0 0 0.15rem 0;
+  font-size: 1.8rem;
+  color: var(--text-dark);
+  font-weight: 900;
+  font-family: Consolas, "Cascadia Mono", "Courier New", monospace; /* 改这里 */
+  font-style: normal; /* 如果你不想斜体，把 italic 去掉 */
 }
 
+
 .about-subtitle {
-  margin: 0 0 0.75rem 0;  /* Less space before icons */
+  margin: 0 0 0.75rem 0;
   font-size: 1rem;
+  color: var(--text-muted);
+  font-family: Consolas, "Cascadia Mono", "Courier New", monospace; /* 改这里 */
+  font-stretch: normal; /* 可选：Consolas 不需要 condensed */
+  font-weight: 500;
+}
+
+/* .about-subtitle {
+  margin: 0 0 0.75rem 0;  /* Less space before icons */
+  /* font-size: 1rem;
   color: var(--text-muted);
   font-family: 'Berkeley Mono', monospace;
   font-stretch: condensed;
   font-weight: 500;
-}
+} */ 
 
 .about-description {
   margin: 0 0 0.75rem 0;  /* Tighter spacing between paragraphs */
