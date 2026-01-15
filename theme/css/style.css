@@ -30,7 +30,7 @@ a {
 body{
   margin: 0 0 0.75rem 0;
   font-size: 1rem;
-  color: var(--text-muted);
+  background-color: var(--bg-main);
   font-family: Calibri, 'Segoe UI', Arial, sans-serif;
   /* font-family: Consolas, "Cascadia Mono", "Courier New", monospace; 改这里 */
   font-stretch: normal; /* 可选：Consolas 不需要 condensed */
