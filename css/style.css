@@ -1,19 +1,15 @@
  :root {
-     --box: rgb(175, 158, 238);
-     --body: rgb(57, 24, 98);
+     --box: rgb(88, 89, 91);
+     --body: rgb(0, 0, 0);
      --main:#FFFFFF; 
  }
  
  
- /* body {
+ body {
      background-color: var(--body);
      font-family: 'Courier New', monospace;
 
- } */
-body {
-    background-color: var(--body);
-    font-family: 'Calibri', 'Arial', sans-serif;
-}
+ }
 
  /* h1 {
      color:rgb(27, 51, 131); 
