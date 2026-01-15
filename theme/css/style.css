@@ -17,7 +17,8 @@ body{
   margin: 0px;
   background-color: var(--bg-main);
   /* font-family: 'Calluna', serif;*/
-  font-family: Consolas, "Cascadia Mono", "Courier New", monospace;
+  font-family: Calibri, 'Segoe UI', Arial, sans-serif;
+  /* font-family: Consolas, "Cascadia Mono", "Courier New", monospace; */
   font-size: 10pt; /* fallback for bad browser */
   /* Using EB Garamond we have to make the base size bigger*/
   font-size: calc(0.8*var(--base-size));
@@ -83,7 +84,8 @@ header.site-header h1{
   margin: 10pt 0 0 0;
   float: left;
   /* font-family: 'Berkeley Mono', monospace; */
-   font-family: Consolas, "Cascadia Mono", "Courier New", monospace;  /* 改这里 */
+  font-family: Calibri, 'Segoe UI', Arial, sans-serif;
+   /* font-family: Consolas, "Cascadia Mono", "Courier New", monospace;  改这里 */
   vertical-align: bottom;
   padding: 5pt 5pt;
   padding:5pt 5pt;
@@ -1167,7 +1169,8 @@ sup[id^="fnref"]:hover .footnote-popup {
   font-size: 1.8rem;
   color: var(--text-dark);
   font-weight: 900;
-  font-family: Consolas, "Cascadia Mono", "Courier New", monospace; /* 改这里 */
+  font-family: Calibri, 'Segoe UI', Arial, sans-serif;
+  /* font-family: Consolas, "Cascadia Mono", "Courier New", monospace; 改这里 */
   font-style: normal; /* 如果你不想斜体，把 italic 去掉 */
 }
 
@@ -1176,7 +1179,8 @@ sup[id^="fnref"]:hover .footnote-popup {
   margin: 0 0 0.75rem 0;
   font-size: 1rem;
   color: var(--text-muted);
-  font-family: Consolas, "Cascadia Mono", "Courier New", monospace; /* 改这里 */
+  font-family: Calibri, 'Segoe UI', Arial, sans-serif;
+  /* font-family: Consolas, "Cascadia Mono", "Courier New", monospace; 改这里 */
   font-stretch: normal; /* 可选：Consolas 不需要 condensed */
   font-weight: 500;
 }
