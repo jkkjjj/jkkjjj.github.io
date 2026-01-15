@@ -1,138 +1,246 @@
 <!DOCTYPE html>
-<html> 
+<html lang="en">
 <head>
-<script>
-  // Check and apply theme immediately
-  const savedTheme = localStorage.getItem('theme');
-  if (savedTheme) {
-      document.documentElement.setAttribute('data-theme', savedTheme);
-  } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      document.documentElement.setAttribute('data-theme', 'dark');
-  }
-</script>
-<script src="https://jkkjjj.github.io/theme/js/theme.js"></script>
-<script src="https://jkkjjj.github.io/theme/js/copy-code.js"></script>
-<script src="https://jkkjjj.github.io/theme/js/toc.js"></script>
-<script src="https://jkkjjj.github.io/theme/js/popups.js"></script>
-<link rel="stylesheet" href="https://jkkjjj.github.io/theme/css/style.css">
-<link rel="stylesheet" href="https://jkkjjj.github.io/theme/css/fonts.css">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Kaijie Chen | 陈凯洁</title>
-<link rel="stylesheet" href="https://jkkjjj.github.io/theme/css/bluesky-comments.css"/>
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/@phosphor-icons/web@2.1.1/src/duotone/style.css" />
-<link rel="stylesheet" href="https://jkkjjj.github.io/theme/css/code.css"/>
-<link rel="stylesheet" href="https://jkkjjj.github.io/theme/css/pubs.css"/>
-<link rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css"
-      crossorigin="anonymous"/>
-<link href="feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Kaijie Chen Full Atom Feed" />
-<link href="feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Kaijie Chen Full RSS Feed" />
-<meta name="title" property="og:title" content="Kaijie Chen" />
-<meta name="description" property="og:description" content="" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://jkkjjj.github.io/" />
-<meta property="og:title" content="Kaijie Chen" />
-<meta property="og:description" content="" />
-<meta name="image" property="og:image" content="https://jkkjjj.github.io/https://jkkjjj.github.io/theme/img/bg-sba.jpg " />
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:site" content="https://jkkjjj.github.io/" />
-<meta property="twitter:creator" content="@m2saxon" />
-<meta property="twitter:title" content="Kaijie Chen" />
-<meta property="twitter:description" content="" />
-<meta property="twitter:image" content="https://jkkjjj.github.io/https://jkkjjj.github.io/theme/img/bg-sba.jpg " />
-<meta name="author" content="Kaijie Chen" />
-<link rel="icon" type="image/png" href="https://jkkjjj.github.io/theme/img/logomark_fill.png"/>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaijie Chen's Webpage</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 
-<!-- Google analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-65W6NPXWCV"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-
-gtag('config', 'G-65W6NPXWCV');
-</script></head>
-
-<body style="width: 100vw; overflow-x: hidden;">
-
-<header class="site-header">
-    <div class="top-nav">
-    <div style="margin-right: auto;">
-    <h1><a href="https://jkkjjj.github.io/">Kaijie Chen</a></h1>
-    </div>
-    <input id="menu-toggle" type="checkbox" />
-    <label class='menu-button-container' for="menu-toggle">
-    <div class='menu-button'></div>
-  </label>
-    <ul class="menu">
-      <!-- <li><a href="https://jkkjjj.github.io/publications">Publications</a></li>
-      <li><a href="https://jkkjjj.github.io/doc/cv_saxon.pdf">CV</a></li>
-    <li><a href="https://jkkjjj.github.io/blog">Blog</a></li> -->
-    <li>
-      <a href="#" id="theme-toggle" aria-label="Toggle dark mode">
-        <svg class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24">
-          <!-- Moon shape -->
-          <path class="moon" 
-                d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1-8.313-12.454z"
-                fill="currentColor"/>
-          <!-- Sun shape (initially hidden) -->
-          <g class="sun" opacity="0">
-            <circle cx="12" cy="12" r="6" fill="currentColor"/>
-            <g class="sun-beams">
-              <line x1="12" y1="1" x2="12" y2="3"/>
-              <line x1="12" y1="21" x2="12" y2="23"/>
-              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
-              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
-              <line x1="1" y1="12" x2="3" y2="12"/>
-              <line x1="21" y1="12" x2="23" y2="12"/>
-              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
-              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
-            </g>
-          </g>
-        </svg>
-      </a>
-    </li>
-    </ul>
-  </div>
-</header>  
+</head>
+<body>
+        <div class="box-1">
+            <div style="margin-bottom: 50px;">
+                <img src="uchicago.png" width="10%" style="float: right;">
+                <img src="ai2.png" width="10%" style="float: right;">
+                <img src="nyu.png" width="7%" style="float: right;">
+                <h1>Kaijie Chen's Webpage</h1>
+            </div>
 
 
-<div class="page" style="word-spacing: 0.09em;">
-<article>
-<header class="about-header">
-  <div class="about-image" style="background-image: url('https://jkkjjj.github.io/theme/img/kaijie5.jpg')"></div>
-  <div class="about-content">
-      <div>
-          <h3 class="about-title">Kaijie Chen</h3>
-          <p class="about-subtitle">Undergraduate Student<br>Tongji University</p>
-          <ul class="header-icons">
-              <!-- <li><a href="https://www.semanticscholar.org/author/Michael-Stephen-Saxon/48227633"><i class="ph-duotone ph-book"></i></a></li> -->
-              <li><a href="https://scholar.google.com/citations?hl=en&user=vfSUDaAAAAAJ"><i class="ph-duotone ph-graduation-cap"></i></a></li>
-              <!-- <li><a href="https://www.researchgate.net/profile/Michael_Saxon"><img src="https://jkkjjj.github.io/theme/img/ico/svg/researchgate.svg"></a></li> -->
-              <li><a href="mailto:jkkjjj715@gmail.com"><i class="ph-duotone ph-envelope"></i></a></li>
-              <li><a href="https://github.com/jkkjjj"><i class="ph-duotone ph-github-logo"></i></a></li>
-              <!-- <li><a href="https://www.youtube.com/@mssaxonAI"><i class="ph-duotone ph-youtube-logo"></i></a></li> -->
-              <li><a href="https://www.linkedin.com/in/kaijiechen715/"><i class="ph-duotone ph-linkedin-logo"></i></a></li>
-              <!-- <li><a href="https://bsky.app/profile/jkkjjj.github.io"><i class="ph-duotone ph-butterfly"></i></a></li> -->
-              <!-- <li><a rel="me" href="https://sigmoid.social/@saxon"><i class="ph-duotone ph-mastodon-logo"></i></a></li> -->
-              <li><a href="https://x.com/JKKJJJJ715"><i class="ph-duotone ph-twitter-logo"></i></a></li>
-          </ul>
-<p>Greetings! I am a 4-th year undergraduate student majoring in <a href="https://ghc.tongji.edu.cn/">Computer Science (Elite Class)</a> at <a href="https://en.tongji.edu.cn/p/#/">Tongji University</a>.</p> 
-<p>I am sincerely grateful to the respected professors, wonderful postdocs, inspiring PhD seniors, and outstanding undergraduate peers who generously offered me help during my undergraduate years.</p>
+            <div class="box-2">
+                <div class="box-2-element" style="padding-top: 5%;"><img src="kaijie5.jpg" class="image"></div>
+                    <div class="box-2-element" style="flex: 2;">
+                        <h2>About Me</h2>
+                        <p>I am a 4-th year undergraduate student majoring in Computer Science (Elite Class) at Tongji University.</p>
+                        <p>I am sincerely grateful to the respected professors, wonderful postdocs, inspiring PhD seniors, and outstanding undergraduate peers who generously offered me help during my undergraduate years.</p>
 
-</div>
-  </div>
-</header>
-
-<h3>About</h3>
-
-<blockquote class="infobox infobox-tip">
-<p>I'm looking for PhD positions starting in Fall 2026. Please feel free to reach out. </p>
-</blockquote>
+                    </div>
+                <div class="box-2-element">
+                    <h2> Contact </h2>
+                        <ul>
+                            <li>
+                                <a class="contact" href="mailto:micheloscar20@gmail.com">Email</a>
+                            </li>
+                            <li>
+                                <a class="contact" href="https://scholar.google.com/citations?user=zczXAk8AAAAJ&hl=en&oi=ao">Google Scholar</a>
+                            </li>
+                            <li>
+                                <a class="contact" href="https://github.com/ojmichel">GitHub</a>
+                            </li>
+                            <li>
+                                <a class="contact" href="https://www.linkedin.com/in/oscar-michel-82a162145/">LinkedIn</a>
+                            </li>
+                        </ul>
 
 
+                </div>
 
-</footer>  
+            </div>
+                
+                <h1>
+                    Awards and Honors
+                </h1>
+                <div class="awards-section">
+                    <ul class="awards-list">
+                        <li class="award-item">
+                            <strong>National Science Foundation Graduate Research Fellowship Program (NSF GRFP)</strong> - 2025
+                        </li>
+                        <li class="award-item">
+                            <strong>Best Paper Honorable Mention, Conference on Computer Vision and Pattern Recognition (CVPR)</strong> - 2025<br>
+                            <em>For "Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models"</em>
+                        </li>
+                        <li class="award-item">
+                            <strong>Oral Presentation, Conference on Computer Vision and Pattern Recognition (CVPR)</strong> - 2022<br>
+                            <em>For "Text2Mesh: Text-Driven Neural Stylization for Meshes"</em>
+                        </li>
+                        <li class="award-item">
+                            <strong>McCormick Fellowship, University of Chicago</strong> - 2021
+                        </li>
+                        <li class="award-item">
+                            <strong>Illinois State Scholar</strong> - 2017
+                        </li>
+                    </ul>
+                </div>
 
+                <h1>
+                    Selected Publications
+                </h1>
+                <table>
+                    <tr></tr>
+                        <td><img src="mmolmo.png" class="image-research"></td>
+                        <td>
+                            <div class="research-text">
+                                <p>
+                                    <b><i>Molmo and PixMo</i>: Open Weights and Open Data for State-of-the-Art Multimodal Models</b><br>
+                                    Matt Deitke, Chirstopher Clark, et al.<br>
+                                    CVPR 2025 (Best Paper Honorable Mention) <br><br>
+                                    A family of open multimodal models that are as good as the best commerical ones. My contribution was creating a novel evaluation benchmark for testing fine-grained world knowledge in VQA.  
+                                </p>
+                                <ul>
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://arxiv.org/abs/2409.17146">Arxiv<a>
+                                    </li >
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://allenai.org/blog/molmo">Page</a>
+                                    </li>
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://github.com/allenai/molmo">Code</a>
+                                    </li>
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://scholar.googleusercontent.com/scholar.bib?q=info:-yWkElu_uvsJ:scholar.google.com/&output=citation&scisdr=CgINrJ_IEP_PsCr0yGM:AAZF9b8AAAAAaOvy0GMnvbCiETgK2ZLHC_knbrQ&scisig=AAZF9b8AAAAAaOvy0DLMxRStzG8RCZHiUuNxr9Y&scisf=4&ct=citation&cd=-1&hl=en">BibTex</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </td>
+                    <tr>
+                        <td><img src="3dit.gif" class="image-research"></td>
+                        <td>
+                            <div class="research-text">
+                                <p>
+                                    <b>OBJect 3DIT: Language-guided 3D-aware Image Editing</b><br>
+                                    Kaijie Chen, Anand Bhattad, Eli VanderBilt, Ranjay Krishna, Ani Kembhavi, Tanmay Gupta<br>
+                                    NeurIPS 2023 <br><br>
+                                   Using synthetic data to give diffusion models intutitive controls that enable geometrically accurate 3D manipulations of objects in images.
+                                </p>
+                                <ul>
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="http://arxiv.org/abs/2307.11073">Arxiv<a>
+                                    </li >
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://prior.allenai.org/projects/object-edit">Page</a>
+                                    </li>
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://github.com/allenai/object-edit">Code</a>
+                                    </li>
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://scholar.googleusercontent.com/scholar.bib?q=info:g0nKc6oHGMYJ:scholar.google.com/&output=citation&scisdr=ClHSHeTeEIu4qkOvheg:AFWwaeYAAAAAZvSpnej4slcrbqi_FYEnR0Xpcmk&scisig=AFWwaeYAAAAAZvSpnXAuqK0f37xx7JCinB8dPEQ&scisf=4&ct=citation&cd=-1&hl=en">BibTex</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><img src="objaverse.png" class="image-research"></td>
+                        <td>
+                            <div class="research-text">
+                                <p>
+                                    <b>Objaverse: A Universe of Annotated 3D Objects</b><br>
+                                    Matt Deitke, Dustin Schwenk, Jordi Salvador, Luca Weihs, Kaijie Chen, Eli VanderBilt, Ludwig Schmidt, Kiana Ehsani, Aniruddha Kembhavi, Ali Farhadi<br>
+                                    CVPR 2023 <br><br>
+                                   Objaverse is a large dataset of 800k+ 3D models.
+                                </p>
+                                <ul>
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://arxiv.org/abs/2212.08051">Arxiv<a>
+                                    </li >
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://objaverse.allenai.org/">Page</a>
+                                    </li>
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://colab.research.google.com/drive/1ZLA4QufsiI_RuNlamKqV7D7mn40FbWoY?usp=sharing">Colab</a>
+                                    </li>
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://scholar.googleusercontent.com/scholar.bib?q=info:TqZ8T8ei7JQJ:scholar.google.com/&output=citation&scisdr=CgXN7Cs9EN6N-Wx0GoI:AAGBfm0AAAAAY_RyAoITO0fJwhVvTPqnoc11lhGSdVwv&scisig=AAGBfm0AAAAAY_RyAiCmfjt2mxCN_wOn_n2TmJAmXAdC&scisf=4&ct=citation&cd=-1&hl=en">BibTex</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><img src="t2m.png" class="image-research"></td>
+                        <td>
+                            <div class="research-text">
+                                <p>
+                                    <b>Text2Mesh: Text-Driven Neural Stylization for Meshes</b><br>
+                                    Kaijie Chen<sup>*</sup>, Roi Bar On<sup>*</sup>, Richard Liu<sup>*</sup>, Sagie Benaim, Rana Hanocka<br>
+                                    CVPR 2022 <b>(Oral)</b><br><br>
+                                    Text2Mesh is an algorithm for language guided stylization of a 3D object.
+                                </p>
+                                <ul>
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://arxiv.org/abs/2112.03221">Arxiv<a>
+                                    </li >
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://threedle.github.io/text2mesh/">Page</a>
+                                    </li>
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://github.com/threedle/text2mesh/">Code</a>
+                                    </li>
+                                    <li class="paper-li">
+                                        <a class="paper-link" href="https://scholar.googleusercontent.com/scholar.bib?q=info:qsePEd68T1YJ:scholar.google.com/&output=citation&scisdr=CgXjsOABEN2p7phwoN8:AAGBfm0AAAAAYhR2uN91QNB0MQiq2Hlns40lBaWi3PI0&scisig=AAGBfm0AAAAAYhR2uEAX3G0Fa_aOc4wRkuk-9b5y4Ieo&scisf=4&ct=citation&cd=-1&hl=en">BibTex</a>
+                                    </li>
+                                </ul>
+        
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                <!-- <div class="research-box">
+                    <div style="aspect-ratio: 1;"><img src="t2m.png" class="image-research"></div>
+                    <div class="research-text">
+                        <p>
+                            <b>Objaverse: A Universe of Annotated 3D Objects</b><br>
+                            Matt Deitke, Dustin Schwenk, Jordi Salvador, Luca Weihs, Kaijie Chen, Eli VanderBilt, Ludwid Schmidt, Kiana Ehsani, Aniruddha Kembhavi, Ali Farhadi
+                            Arxiv 2022 <br><br>
+                           Objaverse is a large dataset of 800k+ 3D models.
+                        </p>
+                        <ul>
+                            <li class="paper-li">
+                                <a class="paper-link" href="https://arxiv.org/abs/2112.03221">Arxiv<a>
+                            </li >
+                            <li class="paper-li">
+                                <a class="paper-link" href="https://threedle.github.io/text2mesh/">Page</a>
+                            </li>
+                            <li class="paper-li">
+                                <a class="paper-link" href="https://github.com/threedle/text2mesh/">Code</a>
+                            </li>
+                            <li class="paper-li">
+                                <a class="paper-link" href="https://scholar.googleusercontent.com/scholar.bib?q=info:qsePEd68T1YJ:scholar.google.com/&output=citation&scisdr=CgXjsOABEN2p7phwoN8:AAGBfm0AAAAAYhR2uN91QNB0MQiq2Hlns40lBaWi3PI0&scisig=AAGBfm0AAAAAYhR2uEAX3G0Fa_aOc4wRkuk-9b5y4Ieo&scisf=4&ct=citation&cd=-1&hl=en">BibTex</a>
+                            </li>
+                        </ul>
+
+                    </div>
+                </div>
+                <div class="research-box">
+                    <div style="aspect-ratio: 1;"><img src="t2m.png" class="image-research"></div>
+                    <div class="research-text">
+                        <p>
+                            <b>Text2Mesh: Text-Driven Neural Stylization for Meshes</b><br>
+                            Kaijie Chen<sup>*</sup>, Roi Bar On<sup>*</sup>, Richard Liu<sup>*</sup>, Sagie Benaim, Rana Hanocka<br>
+                            CVPR 2022 <b>(Oral)</b><br><br>
+                            We achieve language driven stylization of a 3D object by encoding color and geometric displacements over the object’s surface with a neural network. A differential renderer enables training the network to produce a style that has similar CLIP embeddings to the text prompt.
+                        </p>
+                        <ul>
+                            <li class="paper-li">
+                                <a class="paper-link" href="https://arxiv.org/abs/2112.03221">Arxiv<a>
+                            </li >
+                            <li class="paper-li">
+                                <a class="paper-link" href="https://threedle.github.io/text2mesh/">Page</a>
+                            </li>
+                            <li class="paper-li">
+                                <a class="paper-link" href="https://github.com/threedle/text2mesh/">Code</a>
+                            </li>
+                            <li class="paper-li">
+                                <a class="paper-link" href="https://scholar.googleusercontent.com/scholar.bib?q=info:qsePEd68T1YJ:scholar.google.com/&output=citation&scisdr=CgXjsOABEN2p7phwoN8:AAGBfm0AAAAAYhR2uN91QNB0MQiq2Hlns40lBaWi3PI0&scisig=AAGBfm0AAAAAYhR2uEAX3G0Fa_aOc4wRkuk-9b5y4Ieo&scisf=4&ct=citation&cd=-1&hl=en">BibTex</a>
+                            </li>
+                        </ul>
+
+                    </div>
+                </div> -->
+
+
+        </div>
+        
 </body>
 </html>
