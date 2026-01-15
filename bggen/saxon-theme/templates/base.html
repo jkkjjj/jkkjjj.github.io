@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html> 
+<head>
+{% include "preamble.html" %}
+</head>
+
+<body style="width: 100vw; overflow-x: hidden;">
+
+{% include "header.html" %}  
+
+{% block extra_head %}
+{% endblock %}
+
+<div class="page" style="word-spacing: 0.09em;">
+    {% block content %}
+    {% endblock %}
+</div>
+
+{% include "footer.html" %}  
+
+</body>
+</html>

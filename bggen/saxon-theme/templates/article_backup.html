@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% block title %}{{ article.title }}{% endblock title %}
+{% block description %}{{ article.summary | trim | striptags }}{% endblock description %}
+{% block imgurl %}{{ article.image }}{% endblock imgurl %}
+{% block content %}
+<article class="post">
+    <header class="post-header">
+        <div class="post-hero" style="background-image: url('{{ SITEURL }}/{{ article.image }}')"></div>
+        <div class="post-content-wrapper">
+            <h1 class="post-title">
+                <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+            </h1>
+
+            <div class="post-meta">
+                <time>{{ article.locale_date }}</time>
+                {% if article.ert %}
+                    <span>&gt;&gt;</span>
+                    <span>{{ article.ert }}</span>
+                {% endif %}
+                <span>&gt;&gt;</span>
+                <span><a href="{{ SITEURL }}/blog/{{ article.category.url }}">{{ article.category }}</a></span>
+                <!-- <span>•</span>
+                <span>{% if article.tags %}{% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}</span> -->
+            </div>
+
+            <div class="post-description">
+                {{ article.summary }}
+            </div>
+            {% if article.bsky_uri %}
+            <div class="bsky-stats-preview-container">
+                <div id="article-title-bsky-stats-preview" class="bsky-stats-preview">
+                    <p><em>Loading post stats...</em></p>
+                </div>
+            </div>
+            {% endif %}
+        </div>
+    </header>
+    {{ article.content }}
+</article>
+{% if article.bsky_uri %}
+<div id="bluesky-comments-container" class="widget-wrapper">
+    <script src="{{ SITEURL }}/theme/js/bluesky-comments.js"></script>
+    <div id="my-bluesky-comments">
+      <p><i>Loading Bluesky comments...</i></p>
+    </div>
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const targetContainerId = 'my-bluesky-comments';
+        const blueskyPostUri = '{{ article.bsky_uri }}'; // <<<--- CHANGE THIS URI
+        if (typeof loadAndRenderComments === 'function') {
+            loadAndRenderComments(targetContainerId, blueskyPostUri);
+        } else {
+            console.error("Error: loadAndRenderComments function not found.");
+            const container = document.getElementById(targetContainerId);
+            if (container) {
+                container.innerHTML = '<p class="bsky-comments-error">Error: Could not load comments component.</p>';
+            }
+        }
+    });
+</script>
+{% endif %}
+{% endblock %}
