@@ -19,7 +19,7 @@ body{
   /* font-family: 'Calluna', serif;*/
   font-family: Calibri, 'Segoe UI', Arial, sans-serif;
   /* font-family: Consolas, "Cascadia Mono", "Courier New", monospace; */
-  font-size: 10pt; /* fallback for bad browser */
+  font-size: 14pt; /* fallback for bad browser */
   /* Using EB Garamond we have to make the base size bigger*/
   font-size: calc(0.8*var(--base-size));
   /* font-size: var(--base-size); */
