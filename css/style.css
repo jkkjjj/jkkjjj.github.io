@@ -6,10 +6,10 @@
  
  
  body {
-     background-color: var(--body);
-     font-family: 'Courier New', monospace;
+    background-color: var(--body);
+    font-family: 'Calibri', 'Arial', sans-serif;
+}
 
- }
 
  /* h1 {
      color:rgb(27, 51, 131); 
