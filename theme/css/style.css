@@ -35,6 +35,7 @@ body{
   /* font-family: Consolas, "Cascadia Mono", "Courier New", monospace; 改这里 */
   font-stretch: normal; /* 可选：Consolas 不需要 condensed */
   font-weight: 500;
+  color: var(--text-body);
 }
 
 
