@@ -707,10 +707,10 @@ This command does a few things:
 
 % hack commands to create a centered `\incudegraphics`-like macro that 
 % doesn't cause weird errors
-\newcommand{\adjustimg}{% Horizontal adjustment of image
+\newcommand{\adjustimg}{  % Horizontal adjustment of image
   \hspace*{\dimexpr\evensidemargin-\oddsidemargin}%
 }
-\newcommand{\centerimg}[2][width=\textwidth]{% Center an image
+\newcommand{\centerimg}[2][width=\textwidth]{  % Center an image
   \makebox[\textwidth]{\adjustimg\includegraphics[#1]{#2}}%
 }
 ```
