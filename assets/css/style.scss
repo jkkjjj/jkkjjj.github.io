@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+    background-color: red;
+}
+
 a {
     text-decoration: none;
 }
