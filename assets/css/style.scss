@@ -3,15 +3,36 @@
 
 @import "{{ site.theme }}";
 
-html, body, header, .container, #main_content, section {
-    background-color: red !important;
+/* 整个页面强制纯红 */
+html,
+body,
+header,
+section,
+.container,
+#main_content,
+#main_content_wrap,
+footer {
+  background: red !important;
+  background-color: red !important;
+  background-image: none !important;
+  box-shadow: none !important;
 }
 
-body {
-    color: white !important;
+/* 文字颜色 */
+body,
+p,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: white !important;
 }
 
-a {
-    text-decoration: none;
-    color: white !important;
+
+/* 有些主题会给 section 加边框/阴影 */
+section {
+  border: none !important;
 }
