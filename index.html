@@ -169,8 +169,8 @@
         <h2 id="contactModalTitle">Contact Info</h2>
         <p>
           <strong>Email:</strong> <a target="_blank" href="mailto:jkkjjj715@gmail.com">jkkjjj715@gmail.com</a><br>
-          <strong>WeChat:</strong> <a target="_blank" href="images/wechat.png">jkkjjj2004</a><br>
-          <strong>X:</strong> <a target="_blank" href="https://x.com/JKKJJJJ715">@JKKJJJJ715</a>
+          <strong>Wechat:</strong> <a target="_blank" href="images/wechat.png">jkkjjj2004</a><br>
+          <strong>Twitter:</strong> <a target="_blank" href="https://x.com/JKKJJJJ715">@JKKJJJJ715</a>
         </p>
       </div>
     </div>
@@ -213,12 +213,12 @@
       });
 
       function showContactModal() {
-        contactModal.style.display = "block";
+        contactModal.classList.add("is-open");
         contactModal.setAttribute("aria-hidden", "false");
       }
 
       function hideContactModal() {
-        contactModal.style.display = "none";
+        contactModal.classList.remove("is-open");
         contactModal.setAttribute("aria-hidden", "true");
       }
 
@@ -236,7 +236,7 @@
       });
 
       document.addEventListener("keydown", function(event) {
-        if (event.key === "Escape" && contactModal.style.display === "block") {
+        if (event.key === "Escape" && contactModal.classList.contains("is-open")) {
           hideContactModal();
         }
       });
