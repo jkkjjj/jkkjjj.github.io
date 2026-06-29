@@ -68,7 +68,7 @@
                 </p>
 
                 <p style="text-align:center">
-                  <a href="jkkjjj715@gmail.com">Email</a> &nbsp;/&nbsp;
+                  <a href="#" id="contactTrigger">Contact Info</a> &nbsp;/&nbsp;
                   <!-- <a href="data/Guangzhao_He_Resume.pdf">CV</a> &nbsp;/&nbsp; -->
                   <a href="https://scholar.google.com/citations?user=vfSUDaAAAAAJ&hl=en">Google Scholar</a> &nbsp;/&nbsp;
                   <a href="https://twitter.com/intent/follow?screen_name=JKKJJJJ715">X</a> &nbsp;/&nbsp;
@@ -162,6 +162,19 @@
       </tr>
     </table> -->
 
+    <!-- Contact Info Modal -->
+    <div id="contactModal" class="modal" aria-hidden="true">
+      <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="contactModalTitle">
+        <button class="close-button" type="button" aria-label="Close contact info">&times;</button>
+        <h2 id="contactModalTitle">Contact Info</h2>
+        <p>
+          <strong>Email:</strong> <a target="_blank" href="mailto:jkkjjj715@gmail.com">jkkjjj715@gmail.com</a><br>
+          <strong>WeChat:</strong> <a target="_blank" href="images/wechat.png">jkkjjj2004</a><br>
+          <strong>X:</strong> <a target="_blank" href="https://x.com/JKKJJJJ715">@JKKJJJJ715</a>
+        </p>
+      </div>
+    </div>
+
     <!-- Default Statcounter code for my page http://www.guangzhaohe.com -->
     <script type="text/javascript">
       var sc_project=13133886; 
@@ -182,20 +195,51 @@
     </noscript>
     <!-- End of Statcounter Code -->
 
+    <script>
+      let clickCount = 0;
+      const profileLink = document.getElementById("profileLink");
+      const contactModal = document.getElementById("contactModal");
+      const contactTrigger = document.getElementById("contactTrigger");
+      const contactCloseBtn = contactModal.querySelector(".close-button");
+
+      profileLink.addEventListener("click", function(event) {
+        event.preventDefault(); // stop the browser's default (enlarging the image)
+
+        clickCount++;
+        // if (clickCount === 10) {
+        //     window.location.href = "https://tinyurl.com/profileClick";
+        //   }
+
+      });
+
+      function showContactModal() {
+        contactModal.style.display = "block";
+        contactModal.setAttribute("aria-hidden", "false");
+      }
+
+      function hideContactModal() {
+        contactModal.style.display = "none";
+        contactModal.setAttribute("aria-hidden", "true");
+      }
+
+      contactTrigger.addEventListener("click", function(event) {
+        event.preventDefault();
+        showContactModal();
+      });
+
+      contactCloseBtn.addEventListener("click", hideContactModal);
+
+      window.addEventListener("click", function(event) {
+        if (event.target === contactModal) {
+          hideContactModal();
+        }
+      });
+
+      document.addEventListener("keydown", function(event) {
+        if (event.key === "Escape" && contactModal.style.display === "block") {
+          hideContactModal();
+        }
+      });
+    </script>
   </body>
 </html>
-
-<script>
-  let clickCount = 0;
-  const profileLink = document.getElementById("profileLink");
-
-  profileLink.addEventListener("click", function(event) {
-    event.preventDefault(); // stop the browser's default (enlarging the image)
-
-    clickCount++;
-    // if (clickCount === 10) {
-    //     window.location.href = "https://tinyurl.com/profileClick";
-    //   }
-
-  });
-</script>
